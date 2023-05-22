@@ -2,3 +2,11 @@
 .md\:nx-w-64 {
     width: 20rem;
 }    }
+
+.nx-bg-primary-100{
+    background-color: #1976d2;
+}
+
+.nx-bg-primary-100{
+    color: white;
+}
