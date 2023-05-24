@@ -1,4 +1,7 @@
 {
   "Your-First-Enterprise" : "Your First Enterprise",
-  "Importing-And-Exporting-Enterprise" : "Importing & Exporting Enterprise"
+  "Importing-And-Exporting-Enterprise" : "Importing & Exporting Enterprise",
+  "Using-plugins": "Using Plugins",
+  "Dashboard" : "My Enterprise Dashboard",
+  "Enterprise" : "My Enterprise Details"
 }

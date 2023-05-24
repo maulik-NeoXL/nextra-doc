@@ -3,3 +3,7 @@
     width: 20rem;
 }    }
 
+.before\:nx-bg-gray-200:before{
+    background-color: #d8d8d8;
+}
+
